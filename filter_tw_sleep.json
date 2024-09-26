@@ -1,6 +1,6 @@
 {
   "deny": {
-    "categories": ["Κίνηση", "Motion", "Motor", "Sensors", "Sound", "Pen (Experimental)", "Radio (Experimental)", "Logic", "Loops", "Math", "Text", "Lists", "Variables", "Functions"],
+    "categories": [ "Motion", "Motor", "Sensors", "Sound", "Pen (Experimental)", "Radio (Experimental)", "Logic", "Loops", "Math", "Text", "Lists", "Variables", "Functions"],
     "blocks": ["wait_until", "time", "exit"]
   },
   "show": {
