@@ -1,5 +1,5 @@
 {
-  "deny": {
+  "hide": {
     "categories": ["Motion", "Motor", "Sensors", "Sound", "Pen (Experimental)", "Radio (Experimental)", "Logic", "Loops", "Math", "Text", "Lists", "Variables", "Functions"],
     "blocks": ["wait_until", "time", "exit"]
   },
