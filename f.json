@@ -1,14 +1,21 @@
 {
     "deny": {
       "categories": [
+        "Motion",
+        "Sensors",
+        "Sound",
+        "Radio (Experimental)",
+        "Control",
+        "Loops",
+        "Math",
+        "Text",
+        "lists",
+        "Variables",
+          
         "Motor",
         "Pen (Experimental)",
         "Logic",
         "Functions"
-      ],
-      "blocks": [
-        "move_tank",
-        "move_tank_for"
       ]
     },
     "show": {
