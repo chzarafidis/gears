@@ -1,0 +1,19 @@
+{
+    "deny": {
+      "categories": [
+        "Motor",
+        "Pen (Experimental)",
+        "Logic",
+        "Functions"
+      ],
+      "blocks": [
+        "move_tank",
+        "move_tank_for"
+      ]
+    },
+    "show": {
+      "categories": [
+        "Movement"
+      ]
+    }
+  }
