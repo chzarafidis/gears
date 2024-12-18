@@ -6,9 +6,12 @@ Try it out at https://gears.aposteriori.com.sg ... or the latest version from gi
 
 # Προσπάθεια οργάνωσης μιας σειράς οδηγών διαβαθμισμένης πολυπλοκότητας για το GearsBot Simulator.
 URL Generator:
-Uhttps://gears.aposteriori.com.sg/genURL.html)
+(https://gears.aposteriori.com.sg/genURL.html)
 
 Filters:
+(f.json)
+
+(https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gears/f.json)
 (https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gears/filter.json)
 (https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gears/filter_tw_sleep.json)
 
