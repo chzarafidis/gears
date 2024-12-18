@@ -14,8 +14,8 @@ https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis
 https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gearsbot/filter_tw_sleep.json
 
 Worlds:
-https://quirkycort.github.io/gears/samples/custom worlds/customMap_noGroundDemo.json
-(https://github.com/QuirkyCort/gears/tree/master/samples/custom worlds/customMap_noGroundDemo.json)
+https://quirkycort.github.io/gears/samples/custom%20worlds/customMap_noGroundDemo.json
+https://github.com/QuirkyCort/gears/tree/master/samples/custom%20worlds/customMap_noGroundDemo.json
 https://github.com/QuirkyCort/gears/tree/master/samples/custom%20worlds
 
 Training_Wheels:
