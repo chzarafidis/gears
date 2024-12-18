@@ -9,7 +9,8 @@ URL Generator:
 (https://gears.aposteriori.com.sg/genURL.html)
 
 Filters:
-(f.json)
+(http://f.json)
+(https://f.json)
 
 (https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gears/f.json)
 (https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gears/filter.json)
