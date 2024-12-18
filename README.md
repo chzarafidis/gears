@@ -9,11 +9,13 @@ URL Generator:
 (https://gears.aposteriori.com.sg/genURL.html)
 
 Filters:
-(http://f.json)
-(https://f.json)
-
+[f.json](f.json)
 (https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gears/f.json)
+
+[filter.json](filter.json)
 (https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gears/filter.json)
+
+[filter_tw_sleep.json](filter_tw_sleep.json)
 (https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gears/filter_tw_sleep.json)
 
 Worlds:
