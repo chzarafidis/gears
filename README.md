@@ -3,10 +3,10 @@
 URL Generator:
 https://gears.aposteriori.com.sg/genURL.html
 
-Πρώτο φίλτρο:
+Filters:
 https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gearsbot/filter.json
-
-Δεύτερο φίλτρο:
 https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gearsbot/filter_tw_sleep.json
 
+Worlds:
+https://quirkycort.github.io/gears/samples/custom worlds/customMap_noGroundDemo.json
 
