@@ -8,8 +8,8 @@ Try it out at https://gears.aposteriori.com.sg ... or the latest version from gi
 URL Generator:
 (https://gears.aposteriori.com.sg/genURL.html)
 
-Filters:
-[f.json](f.json)
+Filters: 
+[f.json](f.json)  
 (https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gears/f.json)
 
 [filter.json](filter.json)
