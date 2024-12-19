@@ -18,10 +18,24 @@ URL Generator:
 [filter_tw_sleep.json](filter_tw_sleep.json)  
 (https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gears/filter_tw_sleep.json)
 
-## Worlds:
-https://quirkycort.github.io/gears/samples/custom%20worlds/customMap_noGroundDemo.json
+## Worlds 
+### custom%20worlds
 https://github.com/QuirkyCort/gears/tree/master/samples/custom%20worlds/customMap_noGroundDemo.json
 https://github.com/QuirkyCort/gears/tree/master/samples/custom%20worlds
+https://quirkycort.github.io/gears/samples/custom%20worlds/customMap_noGroundDemo.json
+
+### world_challenges
+https://github.com/QuirkyCort/gears/tree/master/public/js/worlds/extra/world_challenges.js
+https://quirkycort.github.io/gears/public/js/worlds/extra/world_challenges.js
+
+### challenges_basic
+https://gears.aposteriori.com.sg/index.html?
+worldJSON=https%3A%2F%2Ffiles.aposteriori.com.sg%2Fget%2FB9GeeMU54M.json&
+filterBlocksJSON=https%3A%2F%2Ffiles.aposteriori.com.sg%2Fget%2FYaRSZ9WSdZ.json&
+worldScripts=challenges_basic
+
+
+https://github.com/QuirkyCort/gears/blob/master/public/js/worlds/extra/world_challenges.js
 
 ## Training_Wheels:
 https://quirkycort.github.io/gears/public/ev3dev2/Training_Wheels.py
