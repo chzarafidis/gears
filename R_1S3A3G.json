@@ -1,0 +1,45 @@
+{
+  "name": "R_EV3_1S3A3G",
+  "shortDescription": "R_EV3_1S3A3G",
+  "longDescription": "<p>Custom robot created in the configurator.</p>",
+  "longerDescription": "<h3>#robot-dimensions#</h3><ul><li>#robot-wheelDiameter#: 5.6 cm</li><li>#robot-wheelSpacing#: 12 cm</li></ul><h3>#robot-actuators#</h3><ul><li>#robot-port# A : #robot-leftWheel#</li><li>#robot-port# B : #robot-rightWheel#</li></ul><h3>#robot-sensors#</h3><ul><li>#robot-port# 1 : #robot-color#</li></ul>",
+  "thumbnail": "",
+  "bodyHeight": 10.4,
+  "bodyWidth": 8.8,
+  "bodyLength": 10.4,
+  "wheels": true,
+  "wheelDiameter": 5.6,
+  "wheelWidth": 2.8,
+  "wheelToBodyOffset": 0.2,
+  "bodyEdgeToWheelCenterY": 0,
+  "bodyEdgeToWheelCenterZ": 1.6,
+  "bodyMass": 500,
+  "wheelMass": 23,
+  "casterMass": 0,
+  "caster": true,
+  "wheelFriction": 10,
+  "bodyFriction": 0,
+  "casterFriction": 0,
+  "color": "#F09C0D",
+  "imageType": "all",
+  "imageURL": "",
+  "components": [
+    {
+      "type": "ColorSensor",
+      "position": [
+        0,
+        -4.2,
+        6
+      ],
+      "rotation": [
+        1.5707963267948966,
+        0,
+        0
+      ],
+      "options": {}
+    }
+  ],
+  "options": {},
+  "casterDiameter": 1.8,
+  "casterOffsetZ": -1.6
+}
