@@ -9,9 +9,39 @@ URL Generator:
 (https://gears.aposteriori.com.sg/genURL.html)
 
 ## Line Following:
-[Simple R_1S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A1G.json&worldScripts=world_challenges)
-[Sharp R_1S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A1G.json&worldScripts=world_challenges)
+### Simple Curves
+[R_1S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A1G.json&worldScripts=world_challenges)    
+[R_SingleFollower](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_SingleFollower.json&worldScripts=world_challenges) 
 
+[R_2S3A1G.json](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_SingleFollower.json&worldScripts=world_challenges)  
+[R_DoubleFollower.json](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_SingleFollower.json&worldScripts=world_challenges)  
+  
+[R_3S3A1G.json](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_SingleFollower.json&worldScripts=world_challenges)  
+  
+[R_1S0A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S0A1G.json&worldScripts=world_challenges)  
+[R_1S1A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S1A1G.json&worldScripts=world_challenges)  
+[R_1S2A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S2A1G.json&worldScripts=world_challenges)  
+[R_1S4A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S4A1G.json&worldScripts=world_challenges)  
+[R_1S5A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S5A1G.json&worldScripts=world_challenges)  
+
+[R_1S3A2G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A2G.json&worldScripts=world_challenges)  
+[R_1S3A3G.json](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A3G.json&worldScripts=world_challenges)  
+
+
+### Sharp Turns
+[R_1S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A1G.json&worldScripts=world_challenges)  
+[R_3S3A1G.json](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_SingleFollower.json&worldScripts=world_challenges)  
+  
+[R_1S0A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S0A1G.json&worldScripts=world_challenges)  
+[R_1S1A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S1A1G.json&worldScripts=world_challenges)  
+[R_1S2A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S2A1G.json&worldScripts=world_challenges)  
+[R_1S4A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S4A1G.json&worldScripts=world_challenges)  
+[R_1S5A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S5A1G.json&worldScripts=world_challenges)  
+
+[R_1S3A2G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A2G.json&worldScripts=world_challenges)  
+[R_1S3A3G.json](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A3G.json&worldScripts=world_challenges)
+
+  
 ## Filters: 
 [f.json](f.json)  
 (https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gears/f.json)
