@@ -8,6 +8,10 @@ Try it out at https://gears.aposteriori.com.sg ... or the latest version from gi
 URL Generator:
 (https://gears.aposteriori.com.sg/genURL.html)
 
+## Line Following:
+[Simple R_1S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A1G.json&worldScripts=world_challenges)
+[Sharp R_1S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A1G.json&worldScripts=world_challenges)
+
 ## Filters: 
 [f.json](f.json)  
 (https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gears/f.json)
