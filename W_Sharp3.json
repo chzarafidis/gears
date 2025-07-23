@@ -1,0 +1,36 @@
+{
+  "worldName": "custom",
+  "options": {
+    "imageURL": "https://QuirkyCort.github.io/gears/public/textures/maps/Line Following/Sharp.png",
+    "groundType": "box",
+    "length": 100,
+    "width": 200,
+    "uScale": 1,
+    "vScale": 1,
+    "imageScale": 1,
+    "timer": "up",
+    "timerDuration": 60,
+    "timerEnd": "continue",
+    "wall": true,
+    "wallHeight": 2,
+    "wallThickness": 3,
+    "wallColor": "#1A1A1A",
+    "groundFriction": 1,
+    "wallFriction": 0.1,
+    "groundRestitution": 0,
+    "wallRestitution": 0.1,
+    "restartAnimationOnRun": false,
+    "objects": [],
+    "startPos": "center",
+    "startPosXYZStr": "",
+    "startRotStr": "",
+    "startPosXYZ": [
+      15,
+      -90,
+      0
+    ],
+    "startRot": null,
+    "arenaStartPosXYZ": null,
+    "arenaStartRot": null
+  }
+}
