@@ -47,6 +47,7 @@ URL Generator:
 
 ## Robots:
 <img width="1274" height="771" alt="R_EV3_1S3A1G" src="https://github.com/user-attachments/assets/b3b802c0-484e-49e6-af4f-83ada01a93e8" />
+
 [R_1S3A1G](https://chzarafidis.github.io/gears/R_1S3A1G.json) 
 
 ## Filters: 
