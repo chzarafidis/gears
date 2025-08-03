@@ -33,10 +33,10 @@ G (Ground): Το ύψος τοποθέτησης του αισθητήρα απ�
 [R_1S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A1G.json&worldScripts=world_challenges)    
 [R_SingleFollower](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_SingleFollower.json&worldScripts=world_challenges) 
 
-[R_2S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_SingleFollower.json&worldScripts=world_challenges)  
-[R_DoubleFollower](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_SingleFollower.json&worldScripts=world_challenges)  
+[R_2S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_2S3A1G.json&worldScripts=world_challenges)  
+[R_DoubleFollower](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_DoubleFollower.json&worldScripts=world_challenges)  
   
-[R_3S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_SingleFollower.json&worldScripts=world_challenges)  
+[R_3S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_3S3A1G.json&worldScripts=world_challenges)  
   
 [R_1S0A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S0A1G.json&worldScripts=world_challenges)  
 [R_1S1A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S1A1G.json&worldScripts=world_challenges)  
@@ -52,7 +52,7 @@ G (Ground): Το ύψος τοποθέτησης του αισθητήρα απ�
 <img width="1680" height="1003" alt="Turns-Sharp" src="https://github.com/user-attachments/assets/e870e593-54da-488e-8268-73b5586a237c" />
 
 [R_1S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A1G.json&worldScripts=world_challenges)  
-[R_3S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_SingleFollower.json&worldScripts=world_challenges)  
+[R_3S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_3S3A1G.json&worldScripts=world_challenges)  
   
 [R_1S0A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S0A1G.json&worldScripts=world_challenges)  
 [R_1S1A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S1A1G.json&worldScripts=world_challenges)  
