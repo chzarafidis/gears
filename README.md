@@ -10,6 +10,8 @@ URL Generator:
 
 ## Line Following:
 ### Simple Curves
+<img width="1680" height="1050" alt="Turns-SimpleCurves" src="https://github.com/user-attachments/assets/ed604113-2f14-4ba3-bc7f-6d2a103517e3" />
+
 [R_1S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A1G.json&worldScripts=world_challenges)    
 [R_SingleFollower](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Simple.json&robotJSON=https://chzarafidis.github.io/gears/R_SingleFollower.json&worldScripts=world_challenges) 
 
@@ -29,6 +31,8 @@ URL Generator:
 
 
 ### Sharp Turns
+<img width="1680" height="1003" alt="Turns-Sharp" src="https://github.com/user-attachments/assets/e870e593-54da-488e-8268-73b5586a237c" />
+
 [R_1S3A1G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A1G.json&worldScripts=world_challenges)  
 [R_3S3A1G.json](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_SingleFollower.json&worldScripts=world_challenges)  
   
@@ -41,7 +45,9 @@ URL Generator:
 [R_1S3A2G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A2G.json&worldScripts=world_challenges)  
 [R_1S3A3G.json](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A3G.json&worldScripts=world_challenges)
 
-  
+## Robots:
+<img width="1274" height="771" alt="R_EV3_1S3A1G" src="https://github.com/user-attachments/assets/b3b802c0-484e-49e6-af4f-83ada01a93e8" />
+
 ## Filters: 
 [f.json](f.json)  
 (https://gears.aposteriori.com.sg/index.html?filterBlocksJSON=https://chzarafidis.github.io/gears/f.json)
