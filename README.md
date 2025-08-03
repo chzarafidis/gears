@@ -1,12 +1,30 @@
-# Gears
-## Generic Educational Autonomous Robotics Simulator
-
-This simulator was created to allow anyone to experiment with robotics without owning a robot.
-Try it out at https://gears.aposteriori.com.sg ... or the latest version from github (https://quirkycort.github.io/gears/public/)
+# Gearsbot
+Το GearsBot, γνωστό και με την πλήρη ονομασία του "Generic Educational Robotics Simulator" (Gears), είναι ένας ισχυρός, τρισδιάστατος (3D) προσομοιωτής ρομποτικής. Δημιουργός και κύριος προγραμματιστής του είναι ο Cort Wee, συνιδρυτής της εταιρείας A Posteriori, ο οποίος το ανέπτυξε γύρω στο 2020-2021 ως εξέλιξη του προγενέστερου 2D προσομοιωτή EV3DevSim ενσωματώνοντας μια ρεαλιστική μηχανή φυσικής με σκοπό να παρέχει μια ακόμα πιο ρεαλιστική και ευέλικτη πλατφόρμα. Το Gears διατίθεται ως ελεύθερο λογισμικό ανοιχτού κώδικα (FOSS) υπό την άδεια GNU General Public License v3.0 (GPL-3.0) και αποτελεί ένα σύγχρονο εκπαιδευτικό εργαλείο. Προσφέρει ένα ολοκληρωμένο περιβάλλον που γεφυρώνει τον εικονικό με τον φυσικό προγραμματισμό. Συγκεκριμένα, επιτρέπει τη σχεδίαση, τη δοκιμή και τον προγραμματισμό σε Python ρομπότ που βασίζονται στα ενεργά στοιχεία του πακέτου LEGO Mindstorms EV3 και βρίσκεται σε συνεχή και ενεργή ανάπτυξη. Try it out at https://gears.aposteriori.com.sg ... or the latest version from github (https://quirkycort.github.io/gears/public/)  
 
 # Προσπάθεια οργάνωσης μιας σειράς οδηγών διαβαθμισμένης πολυπλοκότητας για το GearsBot Simulator.
-URL Generator:
-(https://gears.aposteriori.com.sg/genURL.html)
+
+# Κάθε πειραματική διάταξη ορίζεται από τις παρακάτω τρεις παραμέτρους:  
+S (Sensors): Το πλήθος των αισθητήρων χρώματος (Color Sensors).  
+A (Ahead): Η απόσταση look-ahead του αισθητήρα από τον άξονα των κινητήριων τροχών.  
+G (Ground): Το ύψος τοποθέτησης του αισθητήρα από το έδαφος.  
+
+Για τη συστηματική καταγραφή και σύγκριση, κάθε διαμόρφωση λαμβάνει έναν μοναδικό κωδικό της μορφής R_#S#A#G. Για παράδειγμα, η διαμόρφωση R_1S3A1G περιγράφει μια διάταξη με: 
+1S = 1 αισθητήρα χρώματος.  
+3A = 3 μονάδες LEGO (LU) απόσταση look-ahead.  
+1G = 1 μονάδα LEGO (LU) ύψος από το έδαφος.  
+
+Κωδικοποίηση και Χαρακτηριστικά των Ρομποτικών Διατάξεων
+#S#A#G  (S)  (a,b,c)  (A)  (G)  Παρατηρήσεις
+1S0A1G  1  (0, -5.8, 3.6)	0  (0 εκ.)  1  (0.8 εκ.)  Δοκιμή 0A  
+1S1A1G	1  (0, -5.8, 4.4)	1 (0.8 εκ.) 	1 (0.8 εκ.)  Δοκιμή 1A  
+1S2A1G	1  (0, -5.8, 5.2)	2 (1.6 εκ.) 	1 (0.8 εκ.)  Δοκιμή 2A  
+**1S3A1G**	1  (0, -5.8, 6.0)	3 (2.4 εκ.) 	1 (0.8 εκ.)  **Βασική Διάταξη 1S**  
+1S4A1G	1  (0, -5.8, 6.8)	4 (3.2 εκ.) 	1 (0.8 εκ.)  Δοκιμή 4A  
+1S5A1G	1  (0, -5.8, 7.6)	5 (4.0 εκ.) 	1 (0.8 εκ.)  Δοκιμή 5A  
+1S3A2G	1  (0, -5.0, 6.0)	3 (2.4 εκ.) 	2 (1.6 εκ.)  Δοκιμή 2G  
+1S3A3G	1	(0, -4.2, 6.0)	3 (2.4 εκ.) 	3 (2.4 εκ.)  Δοκιμή 3G  
+2S3A1G	2	(-2, -5.8, 6.0) & (2, -5.8, 6.0)	3 (2.4 εκ.) 	1 (0.8 εκ.)  Βασική Διάταξη 2S  
+3S3A1G	3	(-2, -5.8, 6.0) & (2, -5.8, 6.0) & (0, -5.8, 6.0)	3 (2.4 εκ.)  1 (0.8 εκ.)  Βασική Διάταξη 3S  
 
 ## Line Following:
 ### Simple Curves
@@ -76,9 +94,12 @@ worldJSON=https%3A%2F%2Ffiles.aposteriori.com.sg%2Fget%2FB9GeeMU54M.json&
 filterBlocksJSON=https%3A%2F%2Ffiles.aposteriori.com.sg%2Fget%2FYaRSZ9WSdZ.json&
 worldScripts=challenges_basic
 
-
 https://github.com/QuirkyCort/gears/blob/master/public/js/worlds/extra/world_challenges.js
 
 ## Training_Wheels:
 https://quirkycort.github.io/gears/public/ev3dev2/Training_Wheels.py
 https://github.com/QuirkyCort/gears/tree/master/public/ev3dev2/Training_Wheels.py
+
+# Εργαλεία:
+## URL Generator:
+(https://gears.aposteriori.com.sg/genURL.html)
