@@ -3,15 +3,10 @@
 
 # Προσπάθεια οργάνωσης μιας σειράς οδηγών διαβαθμισμένης πολυπλοκότητας για το GearsBot Simulator.
 ## worldScripts
-https://gears.aposteriori.com.sg/?worldScripts=challenges_basic  
 https://gears.aposteriori.com.sg/?worldScripts=world_challenges
+https://gears.aposteriori.com.sg/?worldScripts=challenges_basic  
+https://gears.aposteriori.com.sg/?worldScripts=world_Test.js
   
-https://github.com/QuirkyCort/gears/tree/master/public/js/worlds/extra/world_challenges.js
-https://quirkycort.github.io/gears/public/js/worlds/extra/world_challenges.js
-https://gears.aposteriori.com.sg/index.html?worldJSON=https%3A%2F%2Ffiles.aposteriori.com.sg%2Fget%2FB9GeeMU54M.json&
-filterBlocksJSON=https%3A%2F%2Ffiles.aposteriori.com.sg%2Fget%2FYaRSZ9WSdZ.json&worldScripts=challenges_basic
-https://github.com/QuirkyCort/gears/blob/master/public/js/worlds/extra/world_challenges.js
-
 # Line Following
 ## Κάθε πειραματική διάταξη ορίζεται από τις παρακάτω τρεις παραμέτρους:  
 S (Sensors): Το πλήθος των αισθητήρων χρώματος (Color Sensors).  
@@ -76,7 +71,6 @@ G (Ground): Το ύψος τοποθέτησης του αισθητήρα απ�
 [R_1S3A2G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A2G.json&worldScripts=world_challenges)  
 [R_1S3A3G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A3G.json&worldScripts=world_challenges)
 
-
 # Εργαλεία:
 ## URL Generator:
 (https://gears.aposteriori.com.sg/genURL.html)
@@ -99,3 +93,11 @@ https://quirkycort.github.io/gears/samples/custom%20worlds/customMap_noGroundDem
 ## Training_Wheels:
 https://quirkycort.github.io/gears/public/ev3dev2/Training_Wheels.py
 https://github.com/QuirkyCort/gears/tree/master/public/ev3dev2/Training_Wheels.py
+
+## world_challenges:
+https://github.com/QuirkyCort/gears/tree/master/public/js/worlds/extra/world_challenges.js
+https://quirkycort.github.io/gears/public/js/worlds/extra/world_challenges.js
+
+## worldScripts:
+https://gears.aposteriori.com.sg/index.html?worldJSON=https://files.aposteriori.com.sg/get/B9GeeMU54M.json&filterBlocksJSON=https://files.aposteriori.com.sg/get/YaRSZ9WSdZ.json&worldScripts=challenges_basic
+https://github.com/QuirkyCort/gears/blob/master/public/js/worlds/extra/world_challenges.js
