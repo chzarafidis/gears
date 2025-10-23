@@ -8,7 +8,7 @@ https://github.com/QuirkyCort/gears/tree/master/public/ev3dev2/Training_Wheels.p
 
 ## WorldScripts
 https://gears.aposteriori.com.sg/?worldScripts=challenges_basic  
-https://gears.aposteriori.com.sg/&worldScripts=world_challenges
+https://gears.aposteriori.com.sg/?worldScripts=world_challenges
   
 https://github.com/QuirkyCort/gears/tree/master/public/js/worlds/extra/world_challenges.js
 https://quirkycort.github.io/gears/public/js/worlds/extra/world_challenges.js
