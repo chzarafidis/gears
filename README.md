@@ -5,7 +5,7 @@
 ## worldScripts
 https://gears.aposteriori.com.sg/?worldScripts=world_challenges  
 https://gears.aposteriori.com.sg/?worldScripts=challenges_basic  
-https://gears.aposteriori.com.sg/?worldScripts=world_Test.js  
+https://gears.aposteriori.com.sg/?worldScripts=world_Test  
   
 # Line Following
 ## Κάθε πειραματική διάταξη ορίζεται από τις παρακάτω τρεις παραμέτρους:  
