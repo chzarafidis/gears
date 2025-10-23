@@ -2,11 +2,7 @@
 Το GearsBot, γνωστό και με την πλήρη ονομασία του "Generic Educational Robotics Simulator" (Gears), είναι ένας ισχυρός, τρισδιάστατος (3D) προσομοιωτής ρομποτικής. Δημιουργός και κύριος προγραμματιστής του είναι ο Cort Wee, συνιδρυτής της εταιρείας A Posteriori, ο οποίος το ανέπτυξε γύρω στο 2020-2021 ως εξέλιξη του προγενέστερου 2D προσομοιωτή EV3DevSim ενσωματώνοντας μια ρεαλιστική μηχανή φυσικής με σκοπό να παρέχει μια ακόμα πιο ρεαλιστική και ευέλικτη πλατφόρμα. Το Gears διατίθεται ως ελεύθερο λογισμικό ανοιχτού κώδικα (FOSS) υπό την άδεια GNU General Public License v3.0 (GPL-3.0) και αποτελεί ένα σύγχρονο εκπαιδευτικό εργαλείο. Προσφέρει ένα ολοκληρωμένο περιβάλλον που γεφυρώνει τον εικονικό με τον φυσικό προγραμματισμό. Συγκεκριμένα, επιτρέπει τη σχεδίαση, τη δοκιμή και τον προγραμματισμό σε Python ρομπότ που βασίζονται στα ενεργά στοιχεία του πακέτου LEGO Mindstorms EV3 και βρίσκεται σε συνεχή και ενεργή ανάπτυξη. Try it out at https://gears.aposteriori.com.sg ... or the latest version from github (https://quirkycort.github.io/gears/public/)  
 
 # Προσπάθεια οργάνωσης μιας σειράς οδηγών διαβαθμισμένης πολυπλοκότητας για το GearsBot Simulator.
-## Training_Wheels:
-https://quirkycort.github.io/gears/public/ev3dev2/Training_Wheels.py
-https://github.com/QuirkyCort/gears/tree/master/public/ev3dev2/Training_Wheels.py
-
-## WorldScripts
+## worldScripts
 https://gears.aposteriori.com.sg/?worldScripts=challenges_basic  
 https://gears.aposteriori.com.sg/?worldScripts=world_challenges
   
@@ -81,7 +77,6 @@ G (Ground): Το ύψος τοποθέτησης του αισθητήρα απ�
 [R_1S3A3G](https://gears.aposteriori.com.sg/index.html?worldJSON=https://chzarafidis.github.io/gears/W_Sharp.json&robotJSON=https://chzarafidis.github.io/gears/R_1S3A3G.json&worldScripts=world_challenges)
 
 
-
 # Εργαλεία:
 ## URL Generator:
 (https://gears.aposteriori.com.sg/genURL.html)
@@ -100,3 +95,7 @@ G (Ground): Το ύψος τοποθέτησης του αισθητήρα απ�
 https://github.com/QuirkyCort/gears/tree/master/samples/custom%20worlds/customMap_noGroundDemo.json
 https://github.com/QuirkyCort/gears/tree/master/samples/custom%20worlds
 https://quirkycort.github.io/gears/samples/custom%20worlds/customMap_noGroundDemo.json
+
+## Training_Wheels:
+https://quirkycort.github.io/gears/public/ev3dev2/Training_Wheels.py
+https://github.com/QuirkyCort/gears/tree/master/public/ev3dev2/Training_Wheels.py
